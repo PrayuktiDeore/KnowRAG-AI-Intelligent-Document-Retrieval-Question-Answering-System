@@ -40,4 +40,4 @@ KnowRAG-AI/
 └── README.md
 ```
 
-yuktiDeore)
+
